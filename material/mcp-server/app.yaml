@@ -1,0 +1,18 @@
+command:
+  - uvicorn
+  - server:app
+  - --host
+  - 0.0.0.0
+  - --port
+  - "8000"
+
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: warehouse-id
+
+resources:
+  - name: warehouse-id
+    description: Warehouse SQL usado pelas tools que consultam dados BeFly
+    sql_warehouse:
+      id: <SUBSTITUIR_PELO_WAREHOUSE_ID>
+      permission: CAN_USE

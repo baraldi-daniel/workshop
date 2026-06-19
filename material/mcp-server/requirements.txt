@@ -1,0 +1,4 @@
+mcp[cli]>=1.10
+uvicorn[standard]>=0.32
+databricks-sql-connector>=3.4
+databricks-sdk>=0.40

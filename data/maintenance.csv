@@ -1,0 +1,301 @@
+maintenance_id,tail_number,event_date,type,hours,cost_brl,notes
+1,PR-BFY10,2026-03-27,inspeção C-check,18.5,29846.47,Reparo em sistema de pressurização.
+2,PR-BFY13,2025-09-06,inspeção C-check,47.9,66248.77,Reparo em sistema de pressurização.
+3,PR-BFY09,2026-04-12,corretiva,33.6,115899.38,Troca de bateria APU.
+4,PR-BFY12,2026-02-26,inspeção A-check,47.7,175942.42,Reposição de luzes externas.
+5,PR-BFY16,2026-04-18,inspeção C-check,29.1,101527.35,Inspeção estrutural após pouso duro.
+6,PR-BFY10,2025-08-29,inspeção A-check,32.3,46490.69,Troca de bateria APU.
+7,PR-BFY03,2026-02-23,inspeção C-check,13.9,15792.97,Reparo em sistema de pressurização.
+8,PR-BFY04,2026-04-18,inspeção A-check,29.5,101756.2,Troca de pneus do trem de pouso principal.
+9,PR-BFY17,2026-03-02,inspeção C-check,5.1,14196.15,Inspeção do motor 2 e troca de filtros.
+10,PR-BFY01,2026-03-03,preventiva,58.9,107445.87,Inspeção do motor 2 e troca de filtros.
+11,PR-BFY12,2026-03-24,inspeção C-check,3.5,10468.67,Inspeção do motor 2 e troca de filtros.
+12,PR-BFY17,2025-07-25,inspeção C-check,41.6,176917.26,Reparo em sistema de pressurização.
+13,PR-BFY14,2025-12-29,preventiva,2.9,12433.69,Reparo emergencial em sistema de ar condicionado.
+14,PR-BFY17,2025-08-29,corretiva,24.6,121433.9,Substituição de válvula hidráulica.
+15,PR-BFY04,2025-07-17,preventiva,2.7,12501.64,Substituição de válvula hidráulica.
+16,PR-BFY11,2025-06-28,AOG,25.0,33569.08,Substituição de válvula hidráulica.
+17,PR-BFY07,2025-06-05,inspeção A-check,42.0,159260.43,Inspeção do motor 2 e troca de filtros.
+18,PR-BFY15,2025-08-06,inspeção A-check,37.5,120436.04,Inspeção do motor 2 e troca de filtros.
+19,PR-BFY08,2025-07-25,corretiva,36.3,94768.01,Inspeção do motor 2 e troca de filtros.
+20,PR-BFY14,2026-03-28,inspeção C-check,66.3,236068.23,Calibração de instrumentos do cockpit.
+21,PR-BFY14,2025-09-06,preventiva,73.8,257837.56,Substituição de válvula hidráulica.
+22,PR-BFY05,2025-10-15,preventiva,57.4,189355.7,Substituição de válvula hidráulica.
+23,PR-BFY20,2025-09-30,inspeção A-check,73.2,304600.75,Troca de bateria APU.
+24,PR-BFY10,2026-03-18,corretiva,5.5,16986.46,Calibração de instrumentos do cockpit.
+25,PR-BFY06,2025-09-13,corretiva,54.2,265377.35,Reposição de luzes externas.
+26,PR-BFY02,2025-11-02,corretiva,5.7,16368.25,Reparo em sistema de pressurização.
+27,PR-BFY02,2026-03-18,corretiva,57.3,103788.75,Reparo emergencial em sistema de ar condicionado.
+28,PR-BFY18,2025-11-06,preventiva,51.6,129118.03,Inspeção estrutural após pouso duro.
+29,PR-BFY01,2026-03-12,inspeção C-check,62.7,112886.79,Atualização de software do FMS.
+30,PR-BFY03,2025-07-08,corretiva,9.3,22715.0,Inspeção do motor 2 e troca de filtros.
+31,PR-BFY11,2025-06-23,preventiva,41.2,132869.64,Atualização de software do FMS.
+32,PR-BFY20,2025-07-08,preventiva,79.6,338924.42,Troca de pneus do trem de pouso principal.
+33,PR-BFY09,2025-06-12,inspeção A-check,62.4,309766.15,Inspeção do motor 2 e troca de filtros.
+34,PR-BFY13,2026-02-07,inspeção A-check,5.4,19587.69,Troca de pneus do trem de pouso principal.
+35,PR-BFY09,2026-04-30,preventiva,13.3,17787.13,Inspeção estrutural após pouso duro.
+36,PR-BFY13,2025-07-07,corretiva,67.2,332373.77,Reparo emergencial em sistema de ar condicionado.
+37,PR-BFY07,2025-07-05,inspeção A-check,24.6,104151.21,Reparo emergencial em sistema de ar condicionado.
+38,PR-BFY07,2026-01-06,preventiva,63.1,134569.94,Reparo emergencial em sistema de ar condicionado.
+39,PR-BFY18,2025-08-31,inspeção A-check,41.4,168780.7,Troca de pneus do trem de pouso principal.
+40,PR-BFY18,2025-06-17,corretiva,56.3,132966.97,Calibração de instrumentos do cockpit.
+41,PR-BFY10,2025-10-10,corretiva,33.2,109272.16,Reposição de luzes externas.
+42,PR-BFY19,2026-05-13,AOG,9.1,33251.94,Troca de bateria APU.
+43,PR-BFY11,2025-11-25,preventiva,56.4,65516.6,Substituição de válvula hidráulica.
+44,PR-BFY10,2026-01-16,corretiva,49.7,138102.38,Reparo em sistema de pressurização.
+45,PR-BFY07,2026-01-12,preventiva,27.3,116556.52,Inspeção do motor 2 e troca de filtros.
+46,PR-BFY06,2026-03-04,inspeção A-check,29.0,85238.18,Troca de bateria APU.
+47,PR-BFY18,2025-12-12,corretiva,18.3,22705.33,Troca de bateria APU.
+48,PR-BFY07,2025-10-05,inspeção A-check,19.0,61057.76,Inspeção estrutural após pouso duro.
+49,PR-BFY20,2026-02-01,corretiva,19.3,77024.5,Reparo em sistema de pressurização.
+50,PR-BFY07,2026-05-02,corretiva,47.7,172625.72,Reparo em sistema de pressurização.
+51,PR-BFY18,2026-05-16,corretiva,69.3,278751.44,Atualização de software do FMS.
+52,PR-BFY19,2025-11-20,preventiva,13.8,51288.46,Calibração de instrumentos do cockpit.
+53,PR-BFY09,2025-06-28,preventiva,19.0,52491.12,Troca de pneus do trem de pouso principal.
+54,PR-BFY05,2025-06-18,corretiva,44.8,140386.77,Inspeção estrutural após pouso duro.
+55,PR-BFY17,2026-01-31,inspeção A-check,46.4,215293.74,Calibração de instrumentos do cockpit.
+56,PR-BFY02,2026-04-14,preventiva,57.6,98790.55,Inspeção do motor 2 e troca de filtros.
+57,PR-BFY15,2026-04-19,preventiva,30.5,39622.65,Inspeção do motor 2 e troca de filtros.
+58,PR-BFY12,2025-10-18,inspeção A-check,60.3,277325.84,Troca de pneus do trem de pouso principal.
+59,PR-BFY18,2025-09-20,preventiva,33.1,27102.94,Atualização de software do FMS.
+60,PR-BFY01,2026-02-13,inspeção A-check,55.2,115519.75,Troca de bateria APU.
+61,PR-BFY04,2025-10-21,corretiva,63.2,114428.29,Inspeção estrutural após pouso duro.
+62,PR-BFY07,2026-04-20,inspeção C-check,25.0,60496.5,Atualização de software do FMS.
+63,PR-BFY04,2026-04-23,preventiva,8.1,8868.56,Atualização de software do FMS.
+64,PR-BFY08,2026-01-31,corretiva,75.2,141847.55,Reparo emergencial em sistema de ar condicionado.
+65,PR-BFY07,2026-04-28,inspeção A-check,15.5,16018.09,Substituição de válvula hidráulica.
+66,PR-BFY04,2025-09-30,preventiva,38.4,85638.85,Substituição de válvula hidráulica.
+67,PR-BFY13,2025-12-05,corretiva,45.1,192351.06,Reparo em sistema de pressurização.
+68,PR-BFY08,2026-04-23,preventiva,47.4,193968.44,Reparo emergencial em sistema de ar condicionado.
+69,PR-BFY14,2025-10-13,preventiva,38.8,98816.41,Substituição de válvula hidráulica.
+70,PR-BFY15,2025-06-05,preventiva,18.5,85283.11,Substituição de válvula hidráulica.
+71,PR-BFY09,2025-12-27,preventiva,30.5,136068.64,Inspeção do motor 2 e troca de filtros.
+72,PR-BFY03,2026-02-25,preventiva,28.6,108361.95,Reparo em sistema de pressurização.
+73,PR-BFY20,2026-01-20,corretiva,75.4,185450.7,Substituição de válvula hidráulica.
+74,PR-BFY19,2026-05-23,preventiva,78.0,131185.72,Reparo emergencial em sistema de ar condicionado.
+75,PR-BFY11,2025-09-12,corretiva,5.4,25763.2,Calibração de instrumentos do cockpit.
+76,PR-BFY04,2025-08-12,preventiva,30.7,142413.94,Reparo emergencial em sistema de ar condicionado.
+77,PR-BFY11,2025-06-05,corretiva,32.5,60353.4,Troca de bateria APU.
+78,PR-BFY18,2026-02-17,inspeção A-check,55.7,258729.43,Substituição de válvula hidráulica.
+79,PR-BFY06,2026-02-26,inspeção A-check,47.6,158568.02,Substituição de válvula hidráulica.
+80,PR-BFY18,2025-11-13,corretiva,61.2,81789.53,Troca de bateria APU.
+81,PR-BFY08,2025-10-14,corretiva,24.0,102634.94,Reparo em sistema de pressurização.
+82,PR-BFY02,2025-12-08,inspeção A-check,78.7,292480.44,Troca de pneus do trem de pouso principal.
+83,PR-BFY08,2026-05-29,preventiva,49.1,183819.72,Troca de pneus do trem de pouso principal.
+84,PR-BFY18,2025-11-10,preventiva,69.8,130912.16,Inspeção estrutural após pouso duro.
+85,PR-BFY11,2026-03-14,preventiva,45.2,112030.56,Troca de bateria APU.
+86,PR-BFY03,2025-07-08,corretiva,50.8,43865.0,Atualização de software do FMS.
+87,PR-BFY16,2025-07-14,corretiva,59.8,210118.53,Calibração de instrumentos do cockpit.
+88,PR-BFY13,2025-12-30,AOG,36.0,62419.42,Troca de pneus do trem de pouso principal.
+89,PR-BFY03,2025-06-04,preventiva,17.3,67498.05,Substituição de válvula hidráulica.
+90,PR-BFY06,2025-11-28,inspeção C-check,29.2,119950.04,Inspeção estrutural após pouso duro.
+91,PR-BFY07,2026-03-10,inspeção A-check,26.9,58812.4,Reparo emergencial em sistema de ar condicionado.
+92,PR-BFY02,2026-04-17,inspeção C-check,9.6,41489.35,Inspeção do motor 2 e troca de filtros.
+93,PR-BFY12,2026-04-25,inspeção A-check,52.2,101613.27,Inspeção do motor 2 e troca de filtros.
+94,PR-BFY08,2026-04-28,preventiva,19.2,45158.08,Reposição de luzes externas.
+95,PR-BFY20,2026-02-11,corretiva,59.5,125857.65,Troca de bateria APU.
+96,PR-BFY17,2025-12-27,corretiva,73.5,137930.51,Inspeção do motor 2 e troca de filtros.
+97,PR-BFY01,2026-02-01,corretiva,46.1,199415.73,Calibração de instrumentos do cockpit.
+98,PR-BFY13,2025-08-17,inspeção A-check,65.1,165377.57,Inspeção do motor 2 e troca de filtros.
+99,PR-BFY06,2025-07-29,inspeção A-check,25.0,87816.44,Reparo emergencial em sistema de ar condicionado.
+100,PR-BFY17,2025-10-26,corretiva,64.2,156073.56,Inspeção do motor 2 e troca de filtros.
+101,PR-BFY12,2025-10-27,inspeção A-check,2.6,3640.82,Troca de pneus do trem de pouso principal.
+102,PR-BFY03,2025-12-20,corretiva,54.7,72608.13,Inspeção estrutural após pouso duro.
+103,PR-BFY03,2026-04-07,preventiva,16.5,75881.59,Troca de bateria APU.
+104,PR-BFY16,2026-04-22,corretiva,18.6,77969.13,Reparo emergencial em sistema de ar condicionado.
+105,PR-BFY07,2026-05-18,corretiva,20.5,95355.04,Calibração de instrumentos do cockpit.
+106,PR-BFY04,2026-02-27,preventiva,72.4,260988.15,Reparo emergencial em sistema de ar condicionado.
+107,PR-BFY15,2026-01-22,AOG,16.7,78013.54,Inspeção do motor 2 e troca de filtros.
+108,PR-BFY14,2025-06-07,inspeção A-check,18.6,41843.89,Calibração de instrumentos do cockpit.
+109,PR-BFY03,2026-05-22,inspeção C-check,20.3,52911.12,Reparo emergencial em sistema de ar condicionado.
+110,PR-BFY14,2025-12-29,inspeção A-check,62.8,100440.34,Calibração de instrumentos do cockpit.
+111,PR-BFY07,2026-04-09,preventiva,71.0,185637.71,Calibração de instrumentos do cockpit.
+112,PR-BFY13,2025-08-07,AOG,55.7,278318.74,Substituição de válvula hidráulica.
+113,PR-BFY12,2025-06-14,inspeção A-check,67.5,251422.55,Atualização de software do FMS.
+114,PR-BFY13,2025-06-07,preventiva,58.8,95909.01,Troca de bateria APU.
+115,PR-BFY16,2025-07-08,inspeção A-check,28.4,54840.67,Substituição de válvula hidráulica.
+116,PR-BFY13,2025-12-04,inspeção C-check,37.2,103570.92,Substituição de válvula hidráulica.
+117,PR-BFY14,2026-05-15,inspeção C-check,20.6,33240.75,Atualização de software do FMS.
+118,PR-BFY16,2025-11-14,preventiva,71.7,259184.96,Calibração de instrumentos do cockpit.
+119,PR-BFY05,2026-02-19,inspeção A-check,31.1,111748.56,Reparo em sistema de pressurização.
+120,PR-BFY09,2025-09-06,corretiva,6.1,17182.81,Reparo emergencial em sistema de ar condicionado.
+121,PR-BFY11,2025-12-22,preventiva,50.9,228779.8,Reparo emergencial em sistema de ar condicionado.
+122,PR-BFY05,2025-08-06,preventiva,56.2,214118.47,Inspeção estrutural após pouso duro.
+123,PR-BFY05,2025-09-05,inspeção A-check,61.6,282574.47,Atualização de software do FMS.
+124,PR-BFY05,2026-02-22,AOG,39.9,142495.22,Reposição de luzes externas.
+125,PR-BFY19,2025-07-02,preventiva,13.4,18046.38,Calibração de instrumentos do cockpit.
+126,PR-BFY02,2026-01-26,corretiva,31.4,25373.1,Reparo emergencial em sistema de ar condicionado.
+127,PR-BFY15,2025-07-27,preventiva,58.8,207365.2,Substituição de válvula hidráulica.
+128,PR-BFY04,2026-04-07,preventiva,78.5,273970.09,Substituição de válvula hidráulica.
+129,PR-BFY13,2026-05-27,inspeção A-check,51.1,203944.82,Inspeção estrutural após pouso duro.
+130,PR-BFY05,2026-03-24,corretiva,8.1,18399.13,Calibração de instrumentos do cockpit.
+131,PR-BFY07,2026-03-12,inspeção C-check,32.4,136244.55,Reparo emergencial em sistema de ar condicionado.
+132,PR-BFY07,2026-01-17,preventiva,34.3,157779.0,Inspeção do motor 2 e troca de filtros.
+133,PR-BFY17,2026-01-05,preventiva,36.7,39045.46,Troca de bateria APU.
+134,PR-BFY14,2025-07-04,preventiva,47.9,51980.75,Troca de pneus do trem de pouso principal.
+135,PR-BFY18,2026-05-24,corretiva,3.5,8692.22,Inspeção estrutural após pouso duro.
+136,PR-BFY17,2025-12-13,inspeção C-check,22.8,33056.26,Inspeção do motor 2 e troca de filtros.
+137,PR-BFY07,2025-11-08,preventiva,24.8,28851.96,Reparo emergencial em sistema de ar condicionado.
+138,PR-BFY07,2025-06-12,preventiva,47.8,156923.48,Calibração de instrumentos do cockpit.
+139,PR-BFY03,2026-05-10,preventiva,76.4,177125.44,Reposição de luzes externas.
+140,PR-BFY17,2025-12-31,inspeção C-check,25.2,31008.98,Substituição de válvula hidráulica.
+141,PR-BFY16,2025-09-21,corretiva,73.9,261463.34,Inspeção do motor 2 e troca de filtros.
+142,PR-BFY14,2025-12-21,corretiva,28.9,69959.45,Reposição de luzes externas.
+143,PR-BFY15,2025-06-28,corretiva,13.3,65063.71,Inspeção do motor 2 e troca de filtros.
+144,PR-BFY06,2026-03-02,inspeção A-check,30.1,128928.1,Troca de pneus do trem de pouso principal.
+145,PR-BFY11,2025-12-01,inspeção C-check,39.4,110698.3,Reposição de luzes externas.
+146,PR-BFY01,2026-05-30,preventiva,36.6,67564.28,Troca de pneus do trem de pouso principal.
+147,PR-BFY16,2025-06-01,preventiva,57.2,116670.44,Atualização de software do FMS.
+148,PR-BFY09,2025-08-01,inspeção A-check,9.0,16751.02,Atualização de software do FMS.
+149,PR-BFY04,2025-12-27,inspeção C-check,68.8,327095.32,Inspeção do motor 2 e troca de filtros.
+150,PR-BFY17,2025-12-05,inspeção C-check,57.9,212505.63,Substituição de válvula hidráulica.
+151,PR-BFY09,2025-12-20,corretiva,2.4,10050.88,Reparo em sistema de pressurização.
+152,PR-BFY05,2025-07-23,preventiva,43.9,77152.9,Reparo em sistema de pressurização.
+153,PR-BFY06,2025-08-13,inspeção A-check,35.5,101343.84,Reparo emergencial em sistema de ar condicionado.
+154,PR-BFY17,2026-02-15,preventiva,11.6,53476.88,Substituição de válvula hidráulica.
+155,PR-BFY04,2026-01-14,corretiva,33.7,107384.48,Reposição de luzes externas.
+156,PR-BFY12,2026-04-06,corretiva,41.6,46517.66,Atualização de software do FMS.
+157,PR-BFY17,2025-09-27,inspeção A-check,74.6,349764.37,Troca de pneus do trem de pouso principal.
+158,PR-BFY09,2025-09-25,preventiva,74.7,90510.67,Inspeção estrutural após pouso duro.
+159,PR-BFY13,2026-02-03,inspeção A-check,21.0,27937.31,Substituição de válvula hidráulica.
+160,PR-BFY17,2026-04-30,preventiva,53.0,220680.03,Inspeção estrutural após pouso duro.
+161,PR-BFY18,2026-01-10,preventiva,14.1,70333.54,Reposição de luzes externas.
+162,PR-BFY04,2025-06-10,inspeção C-check,5.1,9091.81,Troca de pneus do trem de pouso principal.
+163,PR-BFY14,2026-02-24,preventiva,8.3,12195.77,Troca de bateria APU.
+164,PR-BFY05,2026-03-07,corretiva,24.1,30678.04,Substituição de válvula hidráulica.
+165,PR-BFY18,2025-11-22,inspeção A-check,33.0,131710.12,Inspeção estrutural após pouso duro.
+166,PR-BFY09,2025-10-06,corretiva,57.0,82771.91,Troca de pneus do trem de pouso principal.
+167,PR-BFY16,2026-04-26,inspeção A-check,70.3,79948.7,Calibração de instrumentos do cockpit.
+168,PR-BFY10,2026-03-09,inspeção C-check,70.7,220110.02,Substituição de válvula hidráulica.
+169,PR-BFY14,2025-11-25,corretiva,41.3,73377.33,Reparo emergencial em sistema de ar condicionado.
+170,PR-BFY01,2026-01-07,preventiva,12.9,60880.6,Troca de pneus do trem de pouso principal.
+171,PR-BFY07,2025-07-26,preventiva,20.6,20682.07,Troca de bateria APU.
+172,PR-BFY04,2026-05-02,inspeção A-check,7.6,32675.42,Inspeção do motor 2 e troca de filtros.
+173,PR-BFY17,2026-03-15,corretiva,25.5,98868.47,Substituição de válvula hidráulica.
+174,PR-BFY02,2026-05-20,inspeção C-check,25.1,122297.1,Inspeção estrutural após pouso duro.
+175,PR-BFY07,2025-10-12,inspeção A-check,2.2,2235.0,Inspeção estrutural após pouso duro.
+176,PR-BFY08,2026-01-05,inspeção A-check,70.8,294592.59,Reposição de luzes externas.
+177,PR-BFY08,2025-12-20,inspeção A-check,21.0,42842.76,Inspeção do motor 2 e troca de filtros.
+178,PR-BFY17,2025-09-20,preventiva,8.7,36302.03,Atualização de software do FMS.
+179,PR-BFY20,2026-05-19,preventiva,39.5,122584.11,Troca de pneus do trem de pouso principal.
+180,PR-BFY06,2025-11-06,inspeção C-check,58.9,146557.99,Inspeção estrutural após pouso duro.
+181,PR-BFY03,2025-10-24,AOG,73.6,142225.69,Atualização de software do FMS.
+182,PR-BFY12,2025-10-23,preventiva,37.0,173496.88,Atualização de software do FMS.
+183,PR-BFY01,2026-01-16,corretiva,7.7,9204.86,Inspeção estrutural após pouso duro.
+184,PR-BFY06,2026-04-24,inspeção A-check,50.5,55059.13,Troca de pneus do trem de pouso principal.
+185,PR-BFY08,2026-03-23,corretiva,3.2,15349.99,Reparo emergencial em sistema de ar condicionado.
+186,PR-BFY12,2025-12-09,corretiva,76.1,122578.11,Reparo em sistema de pressurização.
+187,PR-BFY08,2026-05-11,corretiva,40.2,124499.64,Substituição de válvula hidráulica.
+188,PR-BFY12,2026-03-02,inspeção A-check,7.0,29225.28,Inspeção estrutural após pouso duro.
+189,PR-BFY16,2026-06-01,preventiva,59.7,271064.72,Troca de pneus do trem de pouso principal.
+190,PR-BFY05,2026-05-22,preventiva,42.3,193908.83,Reparo emergencial em sistema de ar condicionado.
+191,PR-BFY16,2026-05-31,inspeção A-check,57.0,230974.62,Substituição de válvula hidráulica.
+192,PR-BFY18,2025-07-07,corretiva,37.6,84143.25,Troca de pneus do trem de pouso principal.
+193,PR-BFY18,2026-03-31,corretiva,72.2,296396.96,Substituição de válvula hidráulica.
+194,PR-BFY15,2026-05-31,corretiva,29.9,82779.45,Calibração de instrumentos do cockpit.
+195,PR-BFY07,2025-07-06,inspeção A-check,14.6,63023.34,Reparo emergencial em sistema de ar condicionado.
+196,PR-BFY12,2026-02-26,preventiva,44.2,38585.91,Inspeção do motor 2 e troca de filtros.
+197,PR-BFY06,2025-12-31,preventiva,14.1,25051.43,Atualização de software do FMS.
+198,PR-BFY03,2025-06-16,inspeção A-check,21.6,68386.22,Reposição de luzes externas.
+199,PR-BFY12,2025-12-17,inspeção A-check,7.6,7361.89,Reparo em sistema de pressurização.
+200,PR-BFY06,2025-12-24,preventiva,9.6,33131.84,Calibração de instrumentos do cockpit.
+201,PR-BFY14,2026-01-12,corretiva,22.8,30487.36,Inspeção estrutural após pouso duro.
+202,PR-BFY02,2025-10-28,inspeção A-check,10.8,50223.62,Reparo em sistema de pressurização.
+203,PR-BFY01,2026-05-09,corretiva,53.3,250651.63,Reparo em sistema de pressurização.
+204,PR-BFY03,2026-03-01,preventiva,43.4,98745.76,Calibração de instrumentos do cockpit.
+205,PR-BFY01,2026-03-26,inspeção A-check,63.9,240829.16,Atualização de software do FMS.
+206,PR-BFY14,2025-11-23,preventiva,32.3,49336.07,Reparo em sistema de pressurização.
+207,PR-BFY03,2026-02-16,corretiva,15.6,75527.62,Inspeção do motor 2 e troca de filtros.
+208,PR-BFY07,2025-09-07,corretiva,77.4,210108.87,Atualização de software do FMS.
+209,PR-BFY14,2025-12-31,inspeção A-check,31.5,100311.79,Substituição de válvula hidráulica.
+210,PR-BFY12,2025-10-19,inspeção A-check,79.6,359076.79,Substituição de válvula hidráulica.
+211,PR-BFY08,2026-01-18,inspeção A-check,79.4,148263.99,Reposição de luzes externas.
+212,PR-BFY14,2025-09-20,corretiva,75.8,187027.26,Substituição de válvula hidráulica.
+213,PR-BFY12,2025-06-15,inspeção A-check,28.4,51923.65,Troca de bateria APU.
+214,PR-BFY01,2026-02-02,preventiva,52.5,163360.39,Reparo em sistema de pressurização.
+215,PR-BFY14,2026-01-19,corretiva,45.2,84024.87,Substituição de válvula hidráulica.
+216,PR-BFY12,2026-03-24,corretiva,51.7,172988.5,Reposição de luzes externas.
+217,PR-BFY15,2025-10-17,inspeção A-check,6.3,26825.62,Substituição de válvula hidráulica.
+218,PR-BFY01,2025-09-07,corretiva,15.3,14256.82,Calibração de instrumentos do cockpit.
+219,PR-BFY11,2025-06-14,inspeção A-check,5.0,18912.38,Troca de bateria APU.
+220,PR-BFY08,2025-11-26,inspeção A-check,79.5,201132.68,Atualização de software do FMS.
+221,PR-BFY19,2025-09-11,preventiva,79.4,80132.69,Atualização de software do FMS.
+222,PR-BFY05,2026-05-24,preventiva,72.2,265076.99,Reparo emergencial em sistema de ar condicionado.
+223,PR-BFY20,2025-09-01,corretiva,56.1,228458.08,Atualização de software do FMS.
+224,PR-BFY19,2026-04-09,inspeção C-check,56.4,247565.78,Reparo emergencial em sistema de ar condicionado.
+225,PR-BFY04,2025-08-12,AOG,59.1,154859.52,Reparo emergencial em sistema de ar condicionado.
+226,PR-BFY18,2026-02-20,preventiva,31.5,74124.07,Inspeção do motor 2 e troca de filtros.
+227,PR-BFY10,2026-01-14,preventiva,42.6,68940.26,Reparo em sistema de pressurização.
+228,PR-BFY05,2026-01-24,inspeção A-check,68.2,132888.38,Troca de bateria APU.
+229,PR-BFY15,2026-01-30,inspeção A-check,73.8,105947.76,Troca de bateria APU.
+230,PR-BFY03,2026-02-15,inspeção A-check,79.9,124933.21,Substituição de válvula hidráulica.
+231,PR-BFY08,2025-09-10,inspeção A-check,75.0,329287.4,Reparo emergencial em sistema de ar condicionado.
+232,PR-BFY11,2025-07-25,corretiva,52.2,248235.86,Reparo em sistema de pressurização.
+233,PR-BFY06,2025-09-21,preventiva,69.8,93811.66,Inspeção do motor 2 e troca de filtros.
+234,PR-BFY04,2026-02-24,preventiva,59.1,48176.79,Substituição de válvula hidráulica.
+235,PR-BFY17,2026-03-27,inspeção C-check,21.8,43611.53,Inspeção estrutural após pouso duro.
+236,PR-BFY15,2025-09-08,preventiva,45.2,64880.83,Substituição de válvula hidráulica.
+237,PR-BFY05,2025-07-30,inspeção A-check,79.0,296998.53,Reparo emergencial em sistema de ar condicionado.
+238,PR-BFY17,2026-03-13,inspeção A-check,63.7,109287.38,Reparo emergencial em sistema de ar condicionado.
+239,PR-BFY08,2025-11-09,corretiva,10.5,12078.08,Inspeção estrutural após pouso duro.
+240,PR-BFY13,2026-05-09,inspeção C-check,32.1,85424.52,Inspeção estrutural após pouso duro.
+241,PR-BFY17,2025-06-10,inspeção A-check,55.7,275033.35,Atualização de software do FMS.
+242,PR-BFY08,2026-05-27,preventiva,19.8,75277.81,Reposição de luzes externas.
+243,PR-BFY02,2025-12-27,inspeção A-check,20.1,46932.31,Troca de pneus do trem de pouso principal.
+244,PR-BFY06,2025-12-16,inspeção C-check,24.5,65793.81,Inspeção estrutural após pouso duro.
+245,PR-BFY10,2026-03-12,inspeção C-check,17.2,65714.04,Reposição de luzes externas.
+246,PR-BFY02,2025-11-11,preventiva,5.1,9110.32,Reposição de luzes externas.
+247,PR-BFY06,2025-11-23,preventiva,26.4,125966.96,Atualização de software do FMS.
+248,PR-BFY10,2026-03-29,preventiva,43.2,45128.26,Inspeção estrutural após pouso duro.
+249,PR-BFY14,2025-10-14,inspeção A-check,15.9,51743.49,Reparo emergencial em sistema de ar condicionado.
+250,PR-BFY15,2026-03-01,inspeção A-check,55.0,193154.64,Reparo em sistema de pressurização.
+251,PR-BFY10,2025-08-25,AOG,9.2,19815.87,Troca de bateria APU.
+252,PR-BFY11,2025-08-16,AOG,77.7,378272.34,Substituição de válvula hidráulica.
+253,PR-BFY14,2025-12-11,corretiva,2.6,10391.93,Reparo em sistema de pressurização.
+254,PR-BFY13,2025-11-17,preventiva,43.6,59641.02,Calibração de instrumentos do cockpit.
+255,PR-BFY08,2025-08-02,preventiva,54.1,258224.98,Inspeção estrutural após pouso duro.
+256,PR-BFY15,2025-09-22,preventiva,67.7,265472.83,Substituição de válvula hidráulica.
+257,PR-BFY07,2026-02-17,preventiva,38.6,121274.59,Substituição de válvula hidráulica.
+258,PR-BFY17,2026-01-16,AOG,68.4,125625.46,Troca de pneus do trem de pouso principal.
+259,PR-BFY17,2026-05-24,corretiva,19.9,65152.57,Troca de bateria APU.
+260,PR-BFY05,2026-03-13,inspeção A-check,49.7,218859.25,Calibração de instrumentos do cockpit.
+261,PR-BFY16,2026-05-01,corretiva,14.2,11749.21,Calibração de instrumentos do cockpit.
+262,PR-BFY16,2025-06-03,corretiva,23.9,75764.05,Reposição de luzes externas.
+263,PR-BFY06,2025-07-24,inspeção A-check,7.6,32595.08,Inspeção estrutural após pouso duro.
+264,PR-BFY13,2026-01-26,inspeção C-check,14.4,46850.9,Substituição de válvula hidráulica.
+265,PR-BFY09,2025-08-28,corretiva,74.0,133600.56,Atualização de software do FMS.
+266,PR-BFY06,2026-04-25,inspeção A-check,19.3,52745.83,Substituição de válvula hidráulica.
+267,PR-BFY15,2025-12-20,preventiva,13.2,12728.28,Inspeção do motor 2 e troca de filtros.
+268,PR-BFY06,2026-01-17,preventiva,2.2,9326.36,Atualização de software do FMS.
+269,PR-BFY02,2025-11-11,preventiva,62.3,295775.13,Troca de bateria APU.
+270,PR-BFY16,2025-08-21,AOG,65.0,238535.5,Inspeção estrutural após pouso duro.
+271,PR-BFY07,2025-11-10,preventiva,30.4,135095.61,Atualização de software do FMS.
+272,PR-BFY13,2025-11-03,preventiva,74.5,143769.45,Reposição de luzes externas.
+273,PR-BFY16,2025-06-25,preventiva,75.5,328430.99,Reposição de luzes externas.
+274,PR-BFY05,2025-06-20,preventiva,40.7,60363.36,Atualização de software do FMS.
+275,PR-BFY16,2026-05-19,corretiva,18.0,46232.77,Reparo emergencial em sistema de ar condicionado.
+276,PR-BFY18,2025-08-26,corretiva,46.2,91444.85,Calibração de instrumentos do cockpit.
+277,PR-BFY01,2025-11-04,AOG,26.6,84748.07,Troca de pneus do trem de pouso principal.
+278,PR-BFY08,2026-05-10,preventiva,79.9,268808.7,Inspeção do motor 2 e troca de filtros.
+279,PR-BFY03,2025-11-24,preventiva,16.9,54492.94,Reposição de luzes externas.
+280,PR-BFY05,2025-11-02,preventiva,59.2,99567.16,Atualização de software do FMS.
+281,PR-BFY09,2025-08-20,corretiva,42.6,184653.25,Substituição de válvula hidráulica.
+282,PR-BFY09,2026-01-23,AOG,43.4,164591.71,Inspeção estrutural após pouso duro.
+283,PR-BFY01,2026-04-15,inspeção C-check,20.0,41269.24,Inspeção estrutural após pouso duro.
+284,PR-BFY14,2026-01-13,preventiva,31.8,72921.81,Troca de pneus do trem de pouso principal.
+285,PR-BFY17,2025-06-01,preventiva,70.8,210566.05,Inspeção do motor 2 e troca de filtros.
+286,PR-BFY03,2025-11-18,inspeção A-check,29.2,48208.64,Calibração de instrumentos do cockpit.
+287,PR-BFY15,2025-08-28,corretiva,47.2,139260.45,Substituição de válvula hidráulica.
+288,PR-BFY13,2026-04-12,preventiva,2.8,5124.73,Inspeção estrutural após pouso duro.
+289,PR-BFY08,2025-06-25,inspeção A-check,14.1,66055.35,Atualização de software do FMS.
+290,PR-BFY07,2025-11-14,corretiva,72.6,235314.24,Reparo emergencial em sistema de ar condicionado.
+291,PR-BFY06,2025-08-25,inspeção A-check,52.1,106826.49,Reposição de luzes externas.
+292,PR-BFY16,2025-10-31,corretiva,47.9,194634.77,Calibração de instrumentos do cockpit.
+293,PR-BFY14,2025-10-04,preventiva,18.3,35868.69,Reposição de luzes externas.
+294,PR-BFY17,2025-06-13,inspeção A-check,73.5,217045.36,Atualização de software do FMS.
+295,PR-BFY01,2026-02-14,inspeção A-check,46.7,40286.38,Inspeção estrutural após pouso duro.
+296,PR-BFY05,2025-12-27,preventiva,14.5,55602.97,Troca de pneus do trem de pouso principal.
+297,PR-BFY20,2025-07-25,inspeção A-check,25.4,54575.06,Reparo emergencial em sistema de ar condicionado.
+298,PR-BFY08,2025-10-08,corretiva,29.8,37676.53,Atualização de software do FMS.
+299,PR-BFY15,2025-12-21,inspeção C-check,56.6,280976.51,Troca de pneus do trem de pouso principal.
+300,PR-BFY10,2025-07-29,corretiva,43.6,161451.1,Inspeção estrutural após pouso duro.

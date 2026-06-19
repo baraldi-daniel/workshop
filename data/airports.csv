@@ -1,0 +1,31 @@
+airport_code,city,state,region
+GRU,São Paulo - Guarulhos,SP,Sudeste
+CGH,São Paulo - Congonhas,SP,Sudeste
+VCP,Campinas - Viracopos,SP,Sudeste
+GIG,Rio de Janeiro - Galeão,RJ,Sudeste
+SDU,Rio de Janeiro - Santos Dumont,RJ,Sudeste
+CNF,Belo Horizonte - Confins,MG,Sudeste
+BSB,Brasília,DF,Centro-Oeste
+GYN,Goiânia,GO,Centro-Oeste
+CGB,Cuiabá,MT,Centro-Oeste
+CGR,Campo Grande,MS,Centro-Oeste
+CWB,Curitiba,PR,Sul
+POA,Porto Alegre,RS,Sul
+FLN,Florianópolis,SC,Sul
+NVT,Navegantes,SC,Sul
+IGU,Foz do Iguaçu,PR,Sul
+SSA,Salvador,BA,Nordeste
+REC,Recife,PE,Nordeste
+FOR,Fortaleza,CE,Nordeste
+NAT,Natal,RN,Nordeste
+JPA,João Pessoa,PB,Nordeste
+MCZ,Maceió,AL,Nordeste
+AJU,Aracaju,SE,Nordeste
+THE,Teresina,PI,Nordeste
+SLZ,São Luís,MA,Nordeste
+MAO,Manaus,AM,Norte
+BEL,Belém,PA,Norte
+MCP,Macapá,AP,Norte
+BVB,Boa Vista,RR,Norte
+RBR,Rio Branco,AC,Norte
+PMW,Palmas,TO,Norte
